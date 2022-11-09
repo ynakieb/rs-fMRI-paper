@@ -9,5 +9,5 @@ The repo includes three files:
 * 3\. CreateDynamicFeature.py dynamic functional connectivity, calculated with for a sliding windowed signals. window type (gaussian), width, and sliding step can be controlled. The output is the percantage of strong correlations, as well as weak/no correlation per pair of areas <br>
 
 This code was used in a recently submitted journal paper, Nov22. <br>
--Please use citation the provided citation if used.
+-Please use citation the provided citation if used. <br>
 --For any questions, suggestions, feel free to contact me.
